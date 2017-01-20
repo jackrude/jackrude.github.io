@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blackjack.jpeg
+image: images/blackjack.jpg
 title: Blackjack
 permalink: 
 date: 2015
