@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/blackjack.jpeg
 title: Blackjack
 permalink: 
 date: 2015
@@ -12,7 +12,7 @@ summary: My team developed a working Blackjack poker game using Java and its GUI
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/blackjack.jpeg">
+  
   
 </div>
 My team designed and implemented a working Blackjack game using nothing but Java.  This was a class project for ICS 111 fall 2015 taught by professor Jason Leigh.  This project took approximately two weeks to finish.  Here is the initial contract and assignments for this project.
