@@ -111,6 +111,8 @@ Version 3
 
 
 Shared Code:
+
+
 private static int evaluateHand(ArrayList<Card> hand){
 		int sum = 0;
 		int aceCount=0;
