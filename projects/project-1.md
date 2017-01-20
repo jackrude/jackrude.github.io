@@ -110,10 +110,9 @@ Version 3
 
 
 
-Shared Code:
+Shared code:
 
-
-private static int evaluateHand(ArrayList<Card> hand){
+	private static int evaluateHand(ArrayList<Card> hand){
 		int sum = 0;
 		int aceCount=0;
 		for(int i =0; i<hand.size(); i++){
