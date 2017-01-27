@@ -1,0 +1,21 @@
+---
+layout: essay
+type: essay
+title: How a good question can lead to a better result
+date: 2017-01-26
+labels:
+- Experiences
+- Research
+
+---
+
+How a good question can lead to a better result
+
+	Like all software engineers, I have always run into problems with my code.  Most of the time I can solve this issue on my own.  Usually through a bit of research ,on how exactly the code works, I am able to pinpoint the issue that has kept me stumped for some time.  Or I will find a silly syntax error that has remained under my nose the entire time which has caused my code to not compile in the first place.  But, with this in mind there are times I cannot for the life of me solve the issue. Every way I look at it I still get the same issue.  After a few hours of tweaking bits and pieces of my code, I am still no closer to solving the issue but in that time I may have made it worse.  Thus the only solution left, is to ask for help from another software engineer.  Which leads me to the Mecca of coders everywhere that are struggling to conquer their code, www.stackoverflow.com .
+	Stack overflow is a place where coders come with questions about issues with code, or effective coding strategies and ,hopefully, leave with solutions provided by other users to their troubled code.  But it often times is not that simple.  Sometimes users will ask vague and unintuitive questions and expect to be spoon-fed the solutions from the users providing the help.  This will lead to sarcastic and spiteful replies by other users.   As stated by Eric Raymond in his publication, ‘How to Ask Questions The Smart Way’, “In the world of hackers, the kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer”.  Meaning, if you ask a dumb, poorly thought-out question, you will receive just as bad of an answer.  So what does a good question look like on stack overflow and what does a bad question look like?  Allow me to show you a couple of examples.
+	Let’s take a look at a good question that exhibits what Eric talks about.  A user named Ashwin Nanjappa posted a question about what are good strategies to split a string in c++.  He provided working code, but wanted to know if there were other ways, possibly better ways, to split strings.  His well thought out question included the correct tags, professional mannerism in the way he asked the question, and was right to the point in what he wanted.  This resulted in very useful thought-out answers.  Each answer was a possible tool he could use in his code.   By presenting a professional question, he received a professional answer.  Here is a link to the post: http://stackoverflow.com/questions/236129/split-a-string-in-c .  But what happens when your question is full of holes and is a pain to read?
+	Now, let’s take a look at a bad, not very well planned out, question.  Selma Celenligil asked a question with the title of “What’s wrong with this code”.  Right away this is a bad way of asking a question.  Being vague in the title means you do not know how to ask for what you need.  The user goes on to try and describe the question in a paragraph filled with spelling errors and emotion.  This results in a single solution to the answer, but in a condescending and somewhat demeaning way.  Here is a link to the post: http://stackoverflow.com/questions/16586165/whats-wrong-with-this-codeconverting-numbers-to-words-c . 
+	To conclude, there is a right way to ask questions and a wrong way to ask.  Taking the time and effort to make a well thought out question goes a long way, and can make or break finding a solution.  
+
+	
+
