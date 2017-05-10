@@ -17,7 +17,7 @@ summary: My team developed a working Blackjack poker game using Java and its GUI
 </div>
 My team designed and implemented a working Blackjack game using nothing but Java.  This was a class project for ICS 111 fall 2015 taught by professor Jason Leigh.  This project took approximately two weeks to finish.  Here is the initial contract and assignments for this project.
 
-  ifferent background image and music for each casino/planet.
+  
 
 casino 1 100 credit minbet = 5
 
@@ -33,9 +33,6 @@ Moon casino  10000 credit minbet = 500
 pervasive:
 	credits 
 	mute button
-
-
-
 
 menu screen:
 start button
@@ -95,7 +92,7 @@ code background logic for Driver.java:
 
 Version 2
 
-at least 2 casinos
+at least two casinos
 win/loss/draw screen
 playing the game fully working.
 main menu working.
@@ -104,9 +101,6 @@ saving/loading value
 
 Version 3
 5 casinos
-
-
-
 
 Shared code:
 
