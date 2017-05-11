@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "Rifle Marksmanship",
+      "name": "Web Development",
       "keywords": [
         
       ]
@@ -61,6 +61,10 @@
         "C++",
         "Java",
         "Javascript"
+        "CSS"
+        "Semantic UI"
+        "HTML"
+        "Underscore"
       ]
     },
     {
@@ -86,7 +90,9 @@
         "ICS 111",
         "ICS 211",
         "ICS 241",
-        "ICS 212"
+        "ICS 212",
+        "ICS 311",
+        "ICS 314"
         ]
     }
   ],
@@ -102,10 +108,8 @@
         "Maintain, update, and oversee all technology including, laptops, printers,tablets, and servers.",
         
       ]
-    },
-    {
-      
     }
+   
   ],
   "volunteer": [
     {
@@ -126,11 +130,7 @@
   ],
   "awards": [
     {
-      
-    },
-    {
-     
-    }
+      }
   ],
   "references": [
     {
