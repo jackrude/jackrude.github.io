@@ -11,10 +11,8 @@ labels:
 summary: My team developed a working Blackjack poker game using Java and its GUIS.
 ---
 
-<div class="ui small rounded images">
-  
-  
-</div>
+<img class="ui large right floated rounded image" src="/images/blackjack.jpg">
+
 My team designed and implemented a working Blackjack game using nothing but Java.  This was a class project for ICS 111 fall 2015 taught by professor Jason Leigh.  This project took approximately two weeks to finish.  Here is the initial contract and assignments for this project.
 
   
