@@ -16,7 +16,7 @@ labels:
 summary: My team developed a web app for finding and posting clubs at UH Manoa
 ---
 
-<img class="ui medium right floated rounded image" src="/images/ClubHub2.png">
+<img class="ui large right floated rounded image" src="/images/ClubHub2.png">
 
 
 ClubHub was a group project for my ICS 314 class in the Spring of 2017.  This project consisted of three members, Aaron Villanueva, Christopher Oh, and Jacob Rude.  The basic idea of this project was to create a website where UH Manoa users can post edit and share clubs using a secure login with their UH Manoa credentials.  We used Meteor as our framework for this project.  For more information on Meteor, visit the [Meteor Website](https://www.meteor.com/).
