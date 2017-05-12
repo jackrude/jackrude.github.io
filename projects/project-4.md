@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ClubHub.png
+image: images/ClubHub2.png
 title: ClubHub
 permalink: 
 date: 2017
