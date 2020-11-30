@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Software Development",
       "keywords": [
         
       ]
@@ -64,7 +64,11 @@
         "CSS",
         "Semantic UI",
         "HTML",
-        "Underscore"
+        "Underscore",
+        "VB.net",
+        "Microsoft SQL Server",
+        "Python"
+        
       ]
     },
     {
@@ -81,22 +85,59 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "Present",
-      "gpa": "3.0",
+      "endDate": "2018-12-15",
+      "gpa": "3.4",
       "courses": [
-        "ICS 111",
-        "ICS 211",
-        "ICS 241",
-        "ICS 212",
-        "ICS 311",
-        "ICS 314"
+        "ICS 111 Introduction to Computer Science I",
+        "ICS 141 Discrete Mathematics for Computer Science I",
+        "ICS 211 Introduction to Computer Science II",
+        "ICS 212 Program Structure",
+        "ICS 241 Discrete Mathematics for Computer Science II",
+        "ICS 311 Algorithms",
+        "ICS 312 Machine-Level and Systems Programming",
+        "ICS 314 Software Engineering I",
+        "ICS 321 Database Systems I",
+        "ICS 332 Operating Systems",
+        "ICS 390 Computing Ethics for Lab Assistants",
+        "ICS 414 Software Engineering II",
+        "ICS 428 Digital Forensics",
+        "ICS 451 Data Networks",
+        "ICS 462 Artificial Intelligence for Games",
+        "ICS 491 Data Science",
+        
         ]
     }
   ],
   "work": [
+    {
+      "company": "Fast Enterprises LLC (Arkansas DSMV Project)",
+      "position": "Software Implementation Consultant",
+      "website": "https://www.fastenterprises.com/",
+      "startDate": "2019-01-15",
+      "endDate": "Present",
+      "summary": "Assistant director of Information Technology",
+      "highlights": [
+        "Implement, configure, and consult multiple state government software in the VB.Net language utilizing Microsoft SQL server.",
+        "Example Agencies: Driver Services, Motor Vehicle Services, State Police, Tax and Finance, Etc..",
+        
+      ]
+    },
+    {
+      "company": "Fast Enterprises LLC (Hawaii Tax Project)",
+      "position": "Software Implementation Consultant Intern",
+      "website": "https://www.fastenterprises.com/",
+      "startDate": "2019-01-15",
+      "endDate": "Present",
+      "summary": "Assistant director of Information Technology",
+      "highlights": [
+        "Implement, configure, and consult software with the State of Hawaii Department of Tax regarding using the VB.Net language which utilizes Microsoft SQL server.",
+        
+        
+      ]
+    },
     {
       "company": "Kealakehe Highschool",
       "position": "IT assistant director",
@@ -108,7 +149,7 @@
         "Maintain, update, and oversee all technology including, laptops, printers,tablets, and servers.",
         
       ]
-    }
+    },
    
   ],
   "volunteer": [
