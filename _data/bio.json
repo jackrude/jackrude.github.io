@@ -26,9 +26,6 @@
         "url": "https://www.linkedin.com/in/jacob-rude-258131133/"
       },
       
-      {
-        
-      }
     ]
   },
   "interests": [
@@ -55,7 +52,6 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
       "keywords": [
         "C",
         "C++",
