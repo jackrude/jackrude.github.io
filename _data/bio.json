@@ -91,11 +91,12 @@
       "endDate": "2018-12-15",
       "gpa": "3.4",
       "courses": [
+        {
         "ICS 111 Introduction to Computer Science I": [
         "Overview of the fundamentals of computer science emphasizing problem solving, algorithm development, implementation,", 
         "and debugging/testing using an object-oriented programming language. Pre: Recommended: computer experience."
-
-        ],
+        ]
+        },
         "ICS 141 Discrete Mathematics for Computer Science I",
         "ICS 211 Introduction to Computer Science II",
         "ICS 212 Program Structure",
