@@ -91,7 +91,12 @@
       "endDate": "2018-12-15",
       "gpa": "3.4",
       "courses": [
-        "ICS 111 Introduction to Computer Science I",
+        "ICS 111 Introduction to Computer Science I":[
+        "Overview of the fundamentals of computer science emphasizing problem solving, algorithm development, implementation,", 
+        "and debugging/testing using an object-oriented programming language. Pre: Recommended: computer experience."
+
+
+      ],
         "ICS 141 Discrete Mathematics for Computer Science I",
         "ICS 211 Introduction to Computer Science II",
         "ICS 212 Program Structure",
@@ -116,9 +121,9 @@
       "company": "Fast Enterprises LLC (Arkansas DSMV Project)",
       "position": "Software Implementation Consultant",
       "website": "https://www.fastenterprises.com/",
-      "startDate": "2019-01-15",
+      "startDate": "2019-01-23",
       "endDate": "Present",
-      "summary": "Assistant director of Information Technology",
+      "summary": "Software Implementation Consultant",
       "highlights": [
         "Implement, configure, and consult multiple state government software in the VB.Net language utilizing Microsoft SQL server.",
         "Example Agencies: Driver Services, Motor Vehicle Services, State Police, Tax and Finance, Etc..",
@@ -129,11 +134,24 @@
       "company": "Fast Enterprises LLC (Hawaii Tax Project)",
       "position": "Software Implementation Consultant Intern",
       "website": "https://www.fastenterprises.com/",
-      "startDate": "2019-01-15",
-      "endDate": "Present",
-      "summary": "Assistant director of Information Technology",
+      "startDate": "2018-05-14",
+      "endDate": "2018-08-17",
+      "summary": "Software Implementation Consultant Intern",
       "highlights": [
         "Implement, configure, and consult software with the State of Hawaii Department of Tax regarding using the VB.Net language which utilizes Microsoft SQL server.",
+        
+        
+      ]
+    },
+    {
+      "company": "RevaComm",
+      "position": "Intern",
+      "website": "https://www.revacomm.com/",
+      "startDate": "2017-10-01",
+      "endDate": "2018-01-01",
+      "summary": "Intern",
+      "highlights": [
+        "Maintaining and updating clients websites. Testing webpages still in development. Developing websites still in production.",
         
         
       ]
