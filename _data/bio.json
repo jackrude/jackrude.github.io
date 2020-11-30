@@ -55,7 +55,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "Top",
+      "level": "",
       "keywords": [
         "C",
         "C++",
@@ -67,7 +67,7 @@
         "Underscore",
         "VB.net",
         "Microsoft SQL Server",
-        "Python"
+        "Python",
         
       ]
     },
@@ -77,7 +77,7 @@
       "keywords": [
         "MacOS",
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub",
         
       ]
     }
