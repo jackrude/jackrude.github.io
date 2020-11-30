@@ -55,7 +55,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "True",
       "keywords": [
         "C",
         "C++",
