@@ -4,15 +4,15 @@
     "label": "Implementation Consultant.",
     "picture": "https://jackrude.github.io/ProfilePic.jpeg",
     "email": "jackprorude@gmail.com",
-    "phone": "Upon request",
+    "phone": "Phone Number available upon request.",
     "website": "https://jackrude.github.io",
     "summary": "Implementation Consultant at Fast Enterprises, LLC",
     "location": {
-      "address": "728 Mahiai Street",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "21 Stonehenge DR",
+      "postalCode": "72023",
+      "city": "Cabot",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Arkansas"
     },
     "profiles": [
       {
@@ -43,15 +43,17 @@
       ]
     },
     {
-      "name": "Software Development",
+      "name": "Crypto Currency",
       "keywords": [
         
       ]
     }
+   
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
+      "level": "",
       "keywords": [
         "C",
         "C++",
